@@ -2,7 +2,7 @@
 ![](http://zhuozhuo233.cn:4000/get/@zhuozhuo233.readme)
 
 - 👋 Hi, I’m @zhuozhuo233
-
+这里目前存放一些代码托管，一些技术整理与备忘存档在我的博客:https://zhuozhuo233.github.io/
 
 ![zhuozhuo233's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuozhuo233&theme=default&show_icons=true)
 
