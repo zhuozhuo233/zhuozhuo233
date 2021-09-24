@@ -27,8 +27,8 @@
 
 <!-- ![](https://img.shields.io/badge/Steam-black?logo=steam)
 ![](https://img.shields.io/badge/NintendoSwitch-red?logo=) -->
-![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+![](https://img.shields.io/badge/Steam-171a21?logo=steam&logoColor=ffffff)
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?logo=nintendo%20switch&logoColor=ffffff)
 
 
 <!---
