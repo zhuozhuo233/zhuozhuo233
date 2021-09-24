@@ -1,10 +1,18 @@
 
 ![](http://zhuozhuo233.cn:4000/get/@zhuozhuo233.readme)
 
-- 👋 Hi, I’m @zhuozhuo233
+<!-- - 👋 Hi, I’m @zhuozhuo233
 这里目前存放一些代码托管，一些技术整理与学习笔记备忘存档在我的博客
 - 个人博客:https://zhuozhuo233.github.io/
-- 数据科学与大数据技术专业在读
+- 数据科学与大数据技术专业在读 -->
+
+# @zhuozhuo233 👋
+- 🏫 **Major**:Data science and big data technology
+- 📜 **Blog**:https://zhuozhuo233.github.io/
+---
+🔬I'm currently learning **Hadoop-related projects & Nosql & web crawler**
+
+
 
 ![zhuozhuo233's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuozhuo233&theme=default&show_icons=true)
 
