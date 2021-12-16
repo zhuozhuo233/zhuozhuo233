@@ -10,7 +10,7 @@
 - 🏫 **Major**:Data science and big data technology
 - 📜 **Blog**:https://zhuozhuo233.github.io/
 ---
-🔬I'm currently learning **Hadoop-related projects & Nosql & web crawler** 
+🔬I'm currently learning ~~**Hadoop-related projects & Nosql & web crawler** 
 - Now working in a company
 - busy...
 
