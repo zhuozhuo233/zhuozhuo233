@@ -11,7 +11,7 @@
 - 📜 **Blog**:https://zhuozhuo233.github.io/
 ---
 🔬I'm currently learning **Hadoop-related projects & Nosql & Machine Learning**
-- Now working in a company
+- working in a company as an intern,doing some explorations of NLP
 - busy...
 
 
