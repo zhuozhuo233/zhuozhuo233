@@ -24,11 +24,12 @@
 
 ![](https://img.shields.io/badge/Hadoop-red)
 ![](https://img.shields.io/badge/Spark-red)
-![](https://img.shields.io/badge/Kafka-red)
 ![](https://img.shields.io/badge/Zookeeper-red)
+![](https://img.shields.io/badge/Kafka-red)
+![](https://img.shields.io/badge/Flume-red)
 ![](https://img.shields.io/badge/Hive-red)
 ![](https://img.shields.io/badge/Hbase-red)
-![](https://img.shields.io/badge/Flume-red)
+
 
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
